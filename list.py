@@ -1,6 +1,4 @@
-a=[]
-n=int(input("enter number of elements:"))
-for i in range(0,n):
-    l=int(input("enter the value:"))
-    a.append(l)
+a=["computer","science","maths"]
 print(a)
+print(a[0])
+print(a[2])
